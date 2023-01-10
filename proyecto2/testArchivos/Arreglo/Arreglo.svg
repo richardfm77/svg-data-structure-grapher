@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg width='400.00' height='100.00'> 
+ <g>
+  <rect x='80.00' y='40.00' width='30' height='30' stroke='#3B3936' stroke-width='1' fill='#B2BEBF' />
+  <text fill='#3B3936' font-family='sans-serif' font-size='20' x='95.00' y='61.00' text-anchor='middle'>1</text>
+ </g>
+ <g>
+  <rect x='110.00' y='40.00' width='30' height='30' stroke='#3B3936' stroke-width='1' fill='#B2BEBF' />
+  <text fill='#3B3936' font-family='sans-serif' font-size='20' x='125.00' y='61.00' text-anchor='middle'>2</text>
+ </g>
+ <g>
+  <rect x='140.00' y='40.00' width='30' height='30' stroke='#3B3936' stroke-width='1' fill='#B2BEBF' />
+  <text fill='#3B3936' font-family='sans-serif' font-size='20' x='155.00' y='61.00' text-anchor='middle'>3</text>
+ </g>
+ <g>
+  <rect x='170.00' y='40.00' width='30' height='30' stroke='#3B3936' stroke-width='1' fill='#B2BEBF' />
+  <text fill='#3B3936' font-family='sans-serif' font-size='20' x='185.00' y='61.00' text-anchor='middle'>4</text>
+ </g>
+ <g>
+  <rect x='200.00' y='40.00' width='30' height='30' stroke='#3B3936' stroke-width='1' fill='#B2BEBF' />
+  <text fill='#3B3936' font-family='sans-serif' font-size='20' x='215.00' y='61.00' text-anchor='middle'>5</text>
+ </g>
+ <g>
+  <rect x='230.00' y='40.00' width='30' height='30' stroke='#3B3936' stroke-width='1' fill='#B2BEBF' />
+  <text fill='#3B3936' font-family='sans-serif' font-size='20' x='245.00' y='61.00' text-anchor='middle'>6</text>
+ </g>
+ <g>
+  <rect x='260.00' y='40.00' width='30' height='30' stroke='#3B3936' stroke-width='1' fill='#B2BEBF' />
+  <text fill='#3B3936' font-family='sans-serif' font-size='20' x='275.00' y='61.00' text-anchor='middle'>7</text>
+ </g>
+</svg>
