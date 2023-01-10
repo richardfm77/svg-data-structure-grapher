@@ -1,0 +1,10 @@
+# Clase:
+        ArbolRojinegro
+    # Elementos:
+    1 2 3 4
+# Más elementos
+5 6 7 8
+                        # Todavía MÁS elementos
+                        9 10 11 12
+    # Los últimos elementos
+    13 14 5

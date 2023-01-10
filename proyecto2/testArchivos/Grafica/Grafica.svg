@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg width='400.00' height='400.00'> 
+ <g>
+  <line x1='350.00' y1='200.00' x2='246.35' y2='342.66' stroke='#3B3936' stroke-width='3' />
+  <line x1='350.00' y1='200.00' x2='246.35' y2='57.34' stroke='#3B3936' stroke-width='3' />
+  <line x1='350.00' y1='200.00' x2='78.65' y2='288.17' stroke='#3B3936' stroke-width='3' />
+  <line x1='350.00' y1='200.00' x2='78.65' y2='111.83' stroke='#3B3936' stroke-width='3' />
+ </g>
+ <g>
+  <line x1='246.35' y1='342.66' x2='350.00' y2='200.00' stroke='#3B3936' stroke-width='3' />
+  <line x1='246.35' y1='342.66' x2='78.65' y2='288.17' stroke='#3B3936' stroke-width='3' />
+  <line x1='246.35' y1='342.66' x2='78.65' y2='111.83' stroke='#3B3936' stroke-width='3' />
+  <line x1='246.35' y1='342.66' x2='246.35' y2='57.34' stroke='#3B3936' stroke-width='3' />
+ </g>
+ <g>
+  <line x1='78.65' y1='288.17' x2='246.35' y2='342.66' stroke='#3B3936' stroke-width='3' />
+  <line x1='78.65' y1='288.17' x2='78.65' y2='111.83' stroke='#3B3936' stroke-width='3' />
+  <line x1='78.65' y1='288.17' x2='350.00' y2='200.00' stroke='#3B3936' stroke-width='3' />
+  <line x1='78.65' y1='288.17' x2='246.35' y2='57.34' stroke='#3B3936' stroke-width='3' />
+ </g>
+ <g>
+  <line x1='78.65' y1='111.83' x2='78.65' y2='288.17' stroke='#3B3936' stroke-width='3' />
+  <line x1='78.65' y1='111.83' x2='246.35' y2='57.34' stroke='#3B3936' stroke-width='3' />
+  <line x1='78.65' y1='111.83' x2='350.00' y2='200.00' stroke='#3B3936' stroke-width='3' />
+  <line x1='78.65' y1='111.83' x2='246.35' y2='342.66' stroke='#3B3936' stroke-width='3' />
+ </g>
+ <g>
+  <line x1='246.35' y1='57.34' x2='78.65' y2='111.83' stroke='#3B3936' stroke-width='3' />
+  <line x1='246.35' y1='57.34' x2='350.00' y2='200.00' stroke='#3B3936' stroke-width='3' />
+  <line x1='246.35' y1='57.34' x2='246.35' y2='342.66' stroke='#3B3936' stroke-width='3' />
+  <line x1='246.35' y1='57.34' x2='78.65' y2='288.17' stroke='#3B3936' stroke-width='3' />
+ </g>
+ <g>
+  <circle cx='350.00' cy='200.00' r='20.00' stroke-width='0' fill='#486966' />
+  <text fill='#B2BEBF' font-family='sans-serif' font-size='20' x='350.00' y='205.00' text-anchor='middle'>1</text>
+ </g>
+ <g>
+  <circle cx='246.35' cy='342.66' r='20.00' stroke-width='0' fill='#486966' />
+  <text fill='#B2BEBF' font-family='sans-serif' font-size='20' x='246.35' y='347.66' text-anchor='middle'>2</text>
+ </g>
+ <g>
+  <circle cx='78.65' cy='288.17' r='20.00' stroke-width='0' fill='#486966' />
+  <text fill='#B2BEBF' font-family='sans-serif' font-size='20' x='78.65' y='293.17' text-anchor='middle'>3</text>
+ </g>
+ <g>
+  <circle cx='78.65' cy='111.83' r='20.00' stroke-width='0' fill='#486966' />
+  <text fill='#B2BEBF' font-family='sans-serif' font-size='20' x='78.65' y='116.83' text-anchor='middle'>4</text>
+ </g>
+ <g>
+  <circle cx='246.35' cy='57.34' r='20.00' stroke-width='0' fill='#486966' />
+  <text fill='#B2BEBF' font-family='sans-serif' font-size='20' x='246.35' y='62.34' text-anchor='middle'>5</text>
+ </g>
+</svg>

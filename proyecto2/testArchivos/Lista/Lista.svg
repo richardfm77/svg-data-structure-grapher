@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg width='380.00' height='100.00'> 
+ <g>
+  <rect x='40.71' y='40.00' width='30' height='30' stroke='#3B3936' stroke-width='1' fill='#B2BEBF' />
+  <text fill='#3B3936' font-family='sans-serif' font-size='20' x='55.71' y='61.00' text-anchor='middle'>34</text>
+  <text fill='#3B3936' font-family='sans-serif' font-size='30' x='86.71' y='61.00' text-anchor='middle'>↔</text>
+ </g>
+ <g>
+  <rect x='101.71' y='40.00' width='30' height='30' stroke='#3B3936' stroke-width='1' fill='#B2BEBF' />
+  <text fill='#3B3936' font-family='sans-serif' font-size='20' x='116.71' y='61.00' text-anchor='middle'>24</text>
+  <text fill='#3B3936' font-family='sans-serif' font-size='30' x='147.71' y='61.00' text-anchor='middle'>↔</text>
+ </g>
+ <g>
+  <rect x='162.71' y='40.00' width='30' height='30' stroke='#3B3936' stroke-width='1' fill='#B2BEBF' />
+  <text fill='#3B3936' font-family='sans-serif' font-size='20' x='177.71' y='61.00' text-anchor='middle'>55</text>
+  <text fill='#3B3936' font-family='sans-serif' font-size='30' x='208.71' y='61.00' text-anchor='middle'>↔</text>
+ </g>
+ <g>
+  <rect x='223.71' y='40.00' width='30' height='30' stroke='#3B3936' stroke-width='1' fill='#B2BEBF' />
+  <text fill='#3B3936' font-family='sans-serif' font-size='20' x='238.71' y='61.00' text-anchor='middle'>66</text>
+  <text fill='#3B3936' font-family='sans-serif' font-size='30' x='269.71' y='61.00' text-anchor='middle'>↔</text>
+ </g>
+ <g>
+  <rect x='284.71' y='40.00' width='30' height='30' stroke='#3B3936' stroke-width='1' fill='#B2BEBF' />
+  <text fill='#3B3936' font-family='sans-serif' font-size='20' x='299.71' y='61.00' text-anchor='middle'>0</text>
+ </g>
+</svg>
