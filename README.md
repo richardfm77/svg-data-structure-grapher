@@ -119,7 +119,7 @@ Generates a file named Output.svg which contains the following image:
 **Input**
 
 ```sh
-   java -jar target/proyecto2.jar testArchivos/ArbolRojinegro/ArbolRojinegro.txt > Output.svg
+   java -jar target/proyecto2.jar testArchivos/ArbolAVL/ArbolAVL.txt > Output.svg
 ```
 Where the file "testArchivos/ArbolAVL/ArbolAVL.txt" contains the following entry: 
 ```sh
